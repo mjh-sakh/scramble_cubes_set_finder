@@ -6,7 +6,7 @@ First we generated a list of words for winter we can think about ourselves. Then
 
 # How it works
 
-First go to "main" and add words you have in mind (one can have a random subset of dictionary or "The quick brown fox jumps over the lazy dog"). 
+First open python or c# code and add words you have in mind (one can have a random subset of dictionary or "The quick brown fox jumps over the lazy dog"). 
 
 Then change your alphabet to whatever one you use. 
 
